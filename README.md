@@ -1,2 +1,2 @@
 # Machine-Learning-Framework
-I made this framework from starch. 
+I made this framework from scratch. 
